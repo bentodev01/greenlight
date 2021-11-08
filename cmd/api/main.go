@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/akileshsethu/greenlight.git/internal/data"
-	"github.com/akileshsethu/greenlight.git/internal/jsonlog"
-	"github.com/akileshsethu/greenlight.git/internal/mailer"
+	"github.com/bentodev01/greenlight.git/internal/data"
+	"github.com/bentodev01/greenlight.git/internal/jsonlog"
+	"github.com/bentodev01/greenlight.git/internal/mailer"
 	_ "github.com/lib/pq"
 )
 

@@ -1,4 +1,4 @@
-module github.com/akileshsethu/greenlight.git
+module github.com/bentodev01/greenlight.git
 
 go 1.17
 
